@@ -1,0 +1,3 @@
+#!/usr/bin/sh
+
+/home/sha0/projects/roll/roll.py $1
